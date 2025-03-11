@@ -30,6 +30,7 @@ namespace Practice_10_Classes
         public static void PrintInfo()
         {
             Console.WriteLine($"Книга: {title}, Автор: {author}, Страниц: {pages}");
+            Console.WriteLine();
         }
     }
 }
